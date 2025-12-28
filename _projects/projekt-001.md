@@ -1,11 +1,14 @@
 ---
 layout: single
-title: tytan
+title: TYTAN
 excerpt: "Surowa forma. Ruch zapisany w detalu."
 classes: wide
 header:
   teaser: /assets/work/p001/02.JPG
 ---
+Projekt TYTAN to surowa interpretacja gravela.
+Rama projektowana pod ruch, prostotę i długą jazdę.
+Bez kompromisów. Bez zbędnych elementów.
 
 <img src="{{ site.baseurl }}/assets/work/p001/01.JPG" loading="lazy">
 <img src="{{ site.baseurl }}/assets/work/p001/02.JPG" loading="lazy">
