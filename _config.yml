@@ -1,5 +1,15 @@
 title: ANTY
 description: gravel / motion / performance / design
+name: ANTY
+locale: pl-PL
+timezone: Europe/Warsaw
+
+atom_feed:
+  hide: true
+
+footer:
+  links: []
+
 lang: pl
 url: https://jiraczka-anty.github.io
 baseurl: /ANTY_TEST_A
