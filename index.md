@@ -2,7 +2,7 @@
 layout: splash
 title: ANTY
 header:
-  overlay_image: /assets/hero.jpg
+  overlay_image: /assets/hero.JPG
   overlay_filter: 0.65
   actions:
     - label: "Work"
