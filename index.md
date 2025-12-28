@@ -1,12 +1,16 @@
 ---
-layout: home
+layout: splash
 title: ANTY
-entries_layout: grid
-paginate: 0
+header:
+  overlay_image: /assets/hero.jpg
+  overlay_filter: 0.65
+  actions:
+    - label: "Work"
+      url: "/projekty/"
+    - label: "Journal"
+      url: "/blog/"
 ---
-
-### ANTY
 
 **Gravel / motion / performance / design**
 
-Surowa estetyka. Ruch. Testowanie granic. Projektowanie przez jazdę.
+Surowa estetyka. Ruch. Projektowanie przez jazdę.
