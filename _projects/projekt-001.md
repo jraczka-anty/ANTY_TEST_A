@@ -1,6 +1,9 @@
 ---
-title: Projekt 001
-excerpt: "Detal / symbol / surowy build."
+title: tytan
+layout: single
+title: tytan
+excerpt: "Surowa forma. Ruch zapisany w detalu."
+classes: wide
 header:
   teaser: /assets/work/p001/02.JPG
 ---
