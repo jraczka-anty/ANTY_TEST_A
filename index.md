@@ -1,15 +1,12 @@
 ---
 layout: home
 title: ANTY
+entries_layout: grid
+paginate: 0
 ---
 
 ### ANTY
 
 **Gravel / motion / performance / design**
 
-ANTY to surowa estetyka, ruch, testowanie granic i projektowanie przez jazdę.
-
-To jest:
-- galeria projektów
-- zapiski z drogi
-- manifest marki
+Surowa estetyka. Ruch. Testowanie granic. Projektowanie przez jazdę.
