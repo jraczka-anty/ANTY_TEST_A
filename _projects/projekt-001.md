@@ -1,5 +1,4 @@
 ---
-title: tytan
 layout: single
 title: tytan
 excerpt: "Surowa forma. Ruch zapisany w detalu."
