@@ -4,7 +4,7 @@ title: ANTY WÓZ
 excerpt: "Mobilna wizytówka ANTY. Samochód, który wozi więcej niż rowery."
 classes: wide
 header:
-  teaser: /assets/work/p001.JPG
+  teaser: /assets/work/p003/01.JPG
 ---
 
 ANTY WÓZ to nasz mobilny punkt dowodzenia.  
