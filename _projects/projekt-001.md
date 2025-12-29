@@ -4,7 +4,7 @@ title: TYTAN
 excerpt: "Surowa forma. Ruch zapisany w detalu."
 classes: wide
 header:
-  teaser: /assets/work/p001.JPG
+  teaser: /assets/work/p001/01.JPG
 ---
 
 Projekt TYTAN to surowa interpretacja gravela.  
