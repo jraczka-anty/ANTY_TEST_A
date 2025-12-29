@@ -4,7 +4,7 @@ title: NOCNA USTAWKA
 excerpt: "Wieczorny joyride po Warszawie."
 classes: wide
 header:
-  teaser: /assets/work/p002/01.JPG
+  teaser: /assets/work/p001.JPG
 ---
 
 NOCNA USTAWKA to ANTY w najlepszej rowerowej formie.  
