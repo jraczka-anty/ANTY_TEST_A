@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Work
+permalink: /projekty/
 ---
 
 {% for project in site.projects %}
