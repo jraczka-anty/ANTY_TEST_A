@@ -1,10 +1,19 @@
 ---
 layout: single
 title: "DLACZEGO GEOMETRIA ROWERU JEST WAŻNIEJSZA NIŻ JEGO OSPRZĘT"
-excerpt: "Geometria decyduje o prowadzeniu, komforcie i kontroli. Osprzęt można wymienić w sezon — geometrii nie da się naprawić bez zmiany ramy."
+excerpt: "Geometria decyduje o prowadzeniu, komforcie i kontroli. Osprzęt można wymienić — geometrii nie da się naprawić bez zmiany ramy."
+search: false
+breadcrumbs: false
+author_profile: false
+classes: wide
+
 header:
   teaser: /assets/journal/01.JPG
+  overlay_image: /assets/journal/01.JPG
+  overlay_filter: 0.55
 ---
+
+**Geometria jest „kodem” roweru.** Ona decyduje, czy jedziesz pewnie, czy tylko walczysz o kontrolę.
 
 W praktyce to geometria w największym stopniu decyduje o tym, jak rower się prowadzi i jak długo da się na nim komfortowo jechać. Kąty główki ramy, długość reachu czy wysokość stacku wpływają bezpośrednio na stabilność, rozkład masy i kontrolę. Osprzęt można wymienić w sezon, geometrii nie da się „zregenerować” bez zmiany ramy. A mimo to jest ona najczęściej ignorowana na etapie zakupu.
 
