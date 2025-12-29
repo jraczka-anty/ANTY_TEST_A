@@ -1,10 +1,19 @@
 ---
 layout: single
 title: "ROWEROWY COMMUTING W WARSZAWIE: MIĘDZY INFRASTRUKTURĄ A RZECZYWISTOŚCIĄ"
-excerpt: "Warszawa poprawiła infrastrukturę, ale commuting nadal wymaga adaptacji. To codzienna logistyka oparta na mechanice, nawykach i doświadczeniu."
+excerpt: "Warszawa poprawia infrastrukturę, ale codzienny commuting nadal wymaga adaptacji. To logistyka oparta na mechanice i doświadczeniu."
+search: false
+breadcrumbs: false
+author_profile: false
+classes: wide
+
 header:
   teaser: /assets/journal/03.JPG
+  overlay_image: /assets/journal/03.JPG
+  overlay_filter: 0.55
 ---
+
+**Codzienna jazda po mieście to system naczyń połączonych.** Rower, infrastruktura i nawyki muszą działać razem — inaczej commuting się nie składa.
 
 Warszawa w ostatnich latach wyraźnie poprawiła infrastrukturę rowerową, ale commuting nadal wymaga dużej adaptacji ze strony użytkownika. Sieć dróg rowerowych jest fragmentaryczna, często przerywana skrzyżowaniami, zjazdami i nieczytelnymi rozwiązaniami. Przejazd przez miasto rzadko bywa płynny — częściej jest serią przyspieszeń, hamowań i improwizowanych objazdów.
 
