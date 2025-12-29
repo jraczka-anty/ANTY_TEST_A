@@ -4,11 +4,20 @@ title: Work
 permalink: /projekty/
 ---
 
-<div style="max-width:760px; margin:0 auto 80px auto;">
-  <h1 style="margin:0 0 16px 0; text-transform:uppercase; letter-spacing:0.08em;">
+<div style="max-width:760px; margin:40px auto 56px auto;">
+  <h1 style="
+    margin:0 0 24px 0;
+    text-transform:uppercase;
+    letter-spacing:0.12em;
+    font-size:44px;
+  ">
     Nasza droga
   </h1>
-  <p style="margin:0; opacity:0.85;">
+  <p style="
+    margin:0;
+    opacity:0.85;
+    max-width:560px;
+  ">
     Od ram rowerowych po mobilne projekty. Wszystko zaczyna się w ruchu.
   </p>
 </div>
