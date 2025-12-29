@@ -43,3 +43,7 @@ defaults:
       type: projects
     values:
       layout: single
+
+      # Blog (posts)
+permalink: /journal/:categories/:title/
+
